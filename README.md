@@ -1,8 +1,7 @@
 ### Hola! Yo soy Marcelo Kleibson👋
 
 - 🔭 Hoy trabajo como FullStack Developer ...
-- 🌱 Estudiando Typescripty ...
-- 😄 Pronouns: el/ella
+- 🌱 Estudiando Typescripty, JavaEE ...
 
 <div align="center">
   <a href="https://github.com/MarceloMkss">
